@@ -1,0 +1,17 @@
+INFO: 2020/09/24 18:37:43 customLog.go:26: Starting the application...
+INFO: 2020/09/24 18:37:43 customLog.go:27: Something noteworthy happened
+WARNING: 2020/09/24 18:37:43 customLog.go:28: There is something you should know about
+ERROR: 2020/09/24 18:37:43 customLog.go:29: Something went wrong
+INFO: 2020/09/24 18:39:22 customLog.go:26: Starting the application...
+INFO: 2020/09/24 18:39:23 customLog.go:27: Something noteworthy happened
+WARNING: 2020/09/24 18:39:23 customLog.go:28: There is something you should know about
+ERROR: 2020/09/24 18:39:23 customLog.go:29: Something went wrong
+INFO: 2020/09/24 18:39:36 customLog.go:26: Starting the application...
+INFO: 2020/09/24 18:39:45 customLog.go:27: Something noteworthy happened
+WARNING: 2020/09/24 18:39:45 customLog.go:28: There is something you should know about
+ERROR: 2020/09/24 18:39:45 customLog.go:29: Something went wrong
+INFO: 2020/09/24 18:42:44 customLog.go:26: 
+INFO: 2020/09/24 18:42:44 customLog.go:27: Something noteworthy happened
+WARNING: 2020/09/24 18:42:44 customLog.go:28: There is something you should know about
+ERROR: 2020/09/24 18:42:44 customLog.go:29: Something went wrong
+
